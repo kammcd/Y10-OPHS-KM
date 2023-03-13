@@ -1,0 +1,9 @@
+#variables 
+
+name =  "kamari"
+#this is a variable
+#the variable is called name
+#the variables called name
+#contains some data
+
+print(name)
