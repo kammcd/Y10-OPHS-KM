@@ -1,0 +1,28 @@
+#variables02
+ 
+name1="kamari"
+name2="tony"
+name3="vanessa"
+name4="bob"
+name5="jesus"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+print("")
+
+town1= "south norwood"
+town2= "bromley"
+town3= "camden town"
+town4= "thorton heath"
+town5= "rio de janeiro"
+
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
+
