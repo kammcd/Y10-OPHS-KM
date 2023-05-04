@@ -1,0 +1,3 @@
+answer= 0
+ while answer =<50:
+   input("enter a number")
