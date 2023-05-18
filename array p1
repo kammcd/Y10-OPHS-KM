@@ -1,0 +1,7 @@
+student = ["jesus","kam","salmah","drake","jorge"]
+
+student.insert(0,"brenda")
+
+student.append("kya")
+del student[3]
+print(student)
