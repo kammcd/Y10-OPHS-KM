@@ -1,0 +1,16 @@
+temp=input("Input the temperature you would like to convert")
+units=input("what is the unit of measurement of the tempretaure (F/C)")
+
+
+if units == "C":
+  result = int(round((9 * units) / 5 + 32))
+  units = "fahrenheit"
+  print("your temp is" ,result, "farenheit")
+elif units == "F":
+    result = int(round((9 - 32) * 5 / 9))
+    print("your temp is" ,result, "celsius")
+
+
+
+ 
+  
